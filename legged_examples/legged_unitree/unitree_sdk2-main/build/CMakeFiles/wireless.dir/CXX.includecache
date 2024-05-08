@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lwx/unitree_sdk2-main/example/wireless/wireless.cpp
+unitree/robot/channel/channel_publisher.hpp
+-
+unitree/idl/go2/WirelessController_.hpp
+-
+

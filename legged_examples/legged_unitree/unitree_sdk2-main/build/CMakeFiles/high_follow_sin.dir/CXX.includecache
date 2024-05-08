@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lwx/unitree_sdk2-main/example/high_level/follow_sin.cpp
+unitree/robot/go2/sport/sport_client.hpp
+-
+unitree/common/thread/recurrent_thread.hpp
+-
+math.h
+-
+

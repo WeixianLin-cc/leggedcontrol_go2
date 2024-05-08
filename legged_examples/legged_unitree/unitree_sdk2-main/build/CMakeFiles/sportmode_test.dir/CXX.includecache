@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lwx/unitree_sdk2-main/example/high_level/sportmode_test.cpp
+cmath
+-
+unitree/robot/go2/sport/sport_client.hpp
+-
+unitree/robot/channel/channel_subscriber.hpp
+-
+unitree/idl/go2/SportModeState_.hpp
+-
+

@@ -1,0 +1,42 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/install/webots_ros2_driver/include/**",
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/install/webots_ros2_msgs/include/**",
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/install/quadruped_controller/include/**",
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/install/ros2_unitree_legged_msgs/include/**",
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/install/quadruped_navigation/include/**",
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/install/quadruped_control_interfaces/include/**",
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/install/grid_map_rviz_plugin/include/**",
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/install/grid_map_ros/include/**",
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/install/grid_map_msgs/include/**",
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/install/grid_map_cv/include/**",
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/install/grid_map_core/include/**",
+        "/opt/ros/foxy/include/**",
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/src/QuadrupedControl_ros2/joystick_to_user_command/include/**",
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/src/QuadrupedControl_ros2/quadruped_controller/include/**",
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/src/QuadrupedControl_ros2/unitree_legged_real/include/**",
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/src/QuadrupedNavigation_ros2/quadruped_navigation/include/**",
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/src/grid_map/grid_map_core/include/**",
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/src/grid_map/grid_map_cv/include/**",
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/src/grid_map/grid_map_ros/include/**",
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/src/grid_map/grid_map_rviz_plugin/include/**",
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/src/webots_ros2_sim/webots_ros2/webots_ros2_control/include/**",
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/src/webots_ros2_sim/webots_ros2/webots_ros2_driver/include/**",
+        "/home/lwx/Documents/QuadrupedSim_webots_ros2-master/ros2_ws/src/webots_ros2_sim/webots_sim_data_publisher/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

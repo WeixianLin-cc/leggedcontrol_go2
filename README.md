@@ -2,6 +2,7 @@
 
 FIRST RUN install.sh in "legged_examples/legged_unitree/unitree_sdk2-main"
 sudo ./install.sh
+
 THEN 
 catkin build legged_controllers legged_unitree_description
 catkin build legged_gazebo

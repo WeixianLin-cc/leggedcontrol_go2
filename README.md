@@ -1,17 +1,19 @@
 # legged_control
 
-FIRST RUN install.sh in "legged_examples/legged_unitree/unitree_sdk2-main"
+FIRST RUN "install.sh" in "legged_examples/legged_unitree/unitree_sdk2-main"
+
 sudo ./install.sh
 
 THEN 
-catkin build legged_controllers legged_unitree_description
-catkin build legged_gazebo
-catkin build legged_unitree_hw
+1. catkin build legged_controllers legged_unitree_description
+2. catkin build legged_gazebo
+3. catkin build legged_unitree_hw
 
 if want use go2 in sim or real
+
 remember export ROBOT_TYPE=go2
 
-!!!Can't use this code to drive real a1 
+**Can't use this code to drive real a1!!!**
 
 ## Introduction
 
